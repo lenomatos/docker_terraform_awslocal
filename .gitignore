@@ -1,0 +1,7 @@
+local-data/
+
+src/volume/
+
+terraform.*
+.terraform.
+terraform
